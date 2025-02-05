@@ -1,0 +1,11 @@
+.lumos-options-popup {
+  width: 100%;
+  height: 450px;
+  box-sizing: border-box;
+  padding: 10px;
+  overflow-x: hidden;
+}
+
+.lumos-options-input {
+  width: 100%;
+}
