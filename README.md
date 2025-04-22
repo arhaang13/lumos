@@ -1,10 +1,5 @@
 # Lumos
 
-<p align="left">
-  <a href="https://github.com/andrewnguonly/Lumos/actions/workflows/ci.yml" alt="CI"><img src="https://github.com/andrewnguonly/Lumos/actions/workflows/ci.yml/badge.svg" /></a>
-  <a href="https://wiki.mutable.ai/andrewnguonly/Lumos" alt="Mutable.ai Auto Wiki"><img src="https://img.shields.io/badge/Auto_Wiki-Mutable.ai-blue" /></a>
-</p>
-
 A RAG LLM co-pilot for browsing the web, powered by local LLMs.
 
 ![Screenshot of Lumos](./screenshots/lumos_screenshot_5.png)
